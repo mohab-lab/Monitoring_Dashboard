@@ -1,0 +1,11 @@
+[theme]
+primaryColor = "#3EB489"
+backgroundColor = "#F9FAFB"
+secondaryBackgroundColor = "#E9F3EF"
+textColor = "#000000"
+font = "Cairo"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = true
